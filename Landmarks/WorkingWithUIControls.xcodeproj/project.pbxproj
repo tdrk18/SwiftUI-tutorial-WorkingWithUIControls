@@ -50,6 +50,7 @@
 		B936D82323252C080001A4C3 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = B936D82223252C080001A4C3 /* ProfileHost.swift */; };
 		B936D82523252CCD0001A4C3 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B936D82423252CCD0001A4C3 /* ProfileSummary.swift */; };
 		B93C3A9B23252D8D0031B561 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = B93C3A9A23252D8D0031B561 /* HikeBadge.swift */; };
+		B93C3A9D232530090031B561 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B93C3A9C232530090031B561 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -100,6 +101,7 @@
 		B936D82223252C080001A4C3 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		B936D82423252CCD0001A4C3 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		B93C3A9A23252D8D0031B561 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		B93C3A9C232530090031B561 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 		C4E4AAA0C4E4035000000001 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -237,6 +239,7 @@
 			children = (
 				B936D82223252C080001A4C3 /* ProfileHost.swift */,
 				B936D82423252CCD0001A4C3 /* ProfileSummary.swift */,
+				B93C3A9C232530090031B561 /* ProfileEditor.swift */,
 			);
 			path = Profile;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				B936D82523252CCD0001A4C3 /* ProfileSummary.swift in Sources */,
 				B7D2AAC5229F4D7C0061E5F5 /* UserData.swift in Sources */,
 				B7394881229F28B900C47603 /* Landmark.swift in Sources */,
+				B93C3A9D232530090031B561 /* ProfileEditor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
